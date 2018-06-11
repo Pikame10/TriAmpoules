@@ -7,6 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+/**
+ * Created by Thibault on 15/01/2018.
+ */
 
 public class Gestionnaire_de_Connexion_BDD implements Runnable {
 

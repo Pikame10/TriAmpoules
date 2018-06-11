@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 /**
- * Created by user on 19/03/2018.
+ * Created by Thibault on 19/03/2018.
  */
 
 public class IHM_Commande extends Activity{

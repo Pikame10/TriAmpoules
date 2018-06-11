@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 
 /**
- * Created by user on 03/04/2018.
+ * Created by Thibault on 03/04/2018.
  */
 
 public class Historique_BDD implements Runnable {
@@ -91,8 +91,7 @@ public class Historique_BDD implements Runnable {
                 //resultat2 += rs.getString("idAmpoule") + "\n";
                 //resultat2 += rs.getString("Materiau_idMateriau") + "\n";
                 //resultat2 += rs.getString("") + "\n";
-
-
+                resultat2="";
                 //Incrémentation des colonnes de la table archive dans la ArrayList
                resultat2 += rs.getString("commande") + " ";
                resultat2 += rs.getString("Date") + "\n";

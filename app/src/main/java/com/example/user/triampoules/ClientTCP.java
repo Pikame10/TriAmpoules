@@ -12,7 +12,7 @@ import java.net.InetAddress;
 import java.net.Socket;     
 
 /**
- * Created by user on 26/03/2018.
+ * Created by Thibault on 26/03/2018.
  */
 
 public class ClientTCP implements Runnable {
@@ -45,11 +45,11 @@ public class ClientTCP implements Runnable {
         int port = 4444;
 
         //Adresse IP de la machine
-        //String IP ="172.30.121.17";
+        String IP ="172.30.121.17";
 
 
         //Adresse IP de Denis pour les test
-        String IP ="172.30.1.12";
+        //String IP ="172.30.1.12";
         //String IP =  "192.168.43.495";
 
         try {

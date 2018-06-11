@@ -27,7 +27,7 @@ import static android.content.ContentValues.TAG;
 
 
 /**
- * Created by user on 30/03/2018.
+ * Created by Thibault on 30/03/2018.
  */
 
 public class IHM_Liste_Historique extends Activity {

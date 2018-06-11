@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="riri"
+            android:text="d.vanrompu"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="147dp" />
 
@@ -48,7 +48,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="fifi"
+            android:text="d1234"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="232dp" />
 

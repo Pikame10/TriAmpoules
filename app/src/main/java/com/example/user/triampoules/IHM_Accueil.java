@@ -8,6 +8,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+/**
+ * Created by Thibault on 15/01/2018.
+ */
 
 public class IHM_Accueil extends Activity {
 
