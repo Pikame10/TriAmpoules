@@ -57,7 +57,7 @@ public class ClientTCP implements Runnable {
             //Recupération de l'addresse IP communicante
             InetAddress serverAddr = InetAddress.getByName(IP);
 
-            //Création de la socker
+            //Création de la socket
             Socket socket = new Socket(serverAddr, port);
 
             out = new PrintWriter( new BufferedWriter( new OutputStreamWriter(socket.getOutputStream())),true);
